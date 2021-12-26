@@ -1,4 +1,4 @@
-<br><br><br><br><br>
+<br><br>
 ### Follow Me
 ```bash
   Youtube : 
@@ -8,7 +8,7 @@
   Pastebin :
    > https://pastebin.com/u/ugex95
 ```
-
+<br><br><br><br><br>
 ## Image 1
 ![Screenshot](img/img.jpg)<br><br>
 ## Download PNG
