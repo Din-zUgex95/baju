@@ -8,10 +8,10 @@
   Pastebin :
    > https://pastebin.com/u/ugex95
 ```
-<br><br><br><br><br>
+<br><br><br><br>
 ## Image 1
 ![Screenshot](img/img.jpg)<br><br>
-## Download PNG
+## PNG
 ![Screenshot](img/png.png)<br><br><br><br><br>
 # Depan
 ![Screenshot](img/depan.jpg)<br><br>
